@@ -8,7 +8,7 @@ This paper proposes a novel global optimization method, namely Stacked Ensemble 
 ## Proposed Method: SEMGO
 <!-- <div  align="center">    
 </div> -->
-<img src="Pictures/SEMGO Workflow.png" height="20%" width="20%" align=center/>
+<img src="Pictures/SEMGO Workflow.png" height="30%" width="30%" align=center/>
 <img src="Pictures/Training Process.png" height="40%" width="40%" align=center/>
 <img src="Pictures/Second-layer Prediction.png" height="40%" width="40%" align=center/>
 
